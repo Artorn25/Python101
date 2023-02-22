@@ -5,4 +5,6 @@ EP.1 Install Python
 
 EP.2 Study about GUI
 
-EP.3 Regisgter GitHub
+EP.3 Register GitHub
+
+EP.4 list,Dictionary and file csv
