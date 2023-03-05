@@ -7,4 +7,6 @@ EP.2 Study about GUI
 
 EP.3 Register GitHub
 
-EP.4 list,Dictionary and file csv
+EP.4 List,Dictionary and file csv
+
+EP.5 Pip,Dictionary
