@@ -10,3 +10,5 @@ EP.3 Register GitHub
 EP.4 List,Dictionary and file csv
 
 EP.5 Pip,Dictionary
+
+EP.6 Class
